@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.pdb
