@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppSampleClass\ConsoleAppSampleClass\bin\Debug\ConsoleAppSampleClass.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppSampleClass\ConsoleAppSampleClass\bin\Debug\ConsoleAppSampleClass.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppSampleClass\ConsoleAppSampleClass\bin\Debug\ConsoleAppSampleClass.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppSampleClass\ConsoleAppSampleClass\obj\Debug\ConsoleAppSampleClass.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Lab_work\ConsoleAppSampleClass\ConsoleAppSampleClass\obj\Debug\ConsoleAppSampleClass.pdb
