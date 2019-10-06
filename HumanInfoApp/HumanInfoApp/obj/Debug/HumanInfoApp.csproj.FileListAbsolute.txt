@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2012\Projects\HumanInfoApp\HumanInfoApp\bin\Debug\HumanInfoApp.exe.config
+c:\users\student\documents\visual studio 2012\Projects\HumanInfoApp\HumanInfoApp\obj\Debug\HumanInfoApp.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\HumanInfoApp\HumanInfoApp\bin\Debug\HumanInfoApp.exe
+c:\users\student\documents\visual studio 2012\Projects\HumanInfoApp\HumanInfoApp\bin\Debug\HumanInfoApp.pdb
+c:\users\student\documents\visual studio 2012\Projects\HumanInfoApp\HumanInfoApp\obj\Debug\HumanInfoApp.exe
+c:\users\student\documents\visual studio 2012\Projects\HumanInfoApp\HumanInfoApp\obj\Debug\HumanInfoApp.pdb
