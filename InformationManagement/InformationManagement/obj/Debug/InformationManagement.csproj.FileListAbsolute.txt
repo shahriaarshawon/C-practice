@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\InformationManagement\InformationManagement\bin\Debug\InformationManagement.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\InformationManagement\InformationManagement\obj\Debug\InformationManagement.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\InformationManagement\InformationManagement\bin\Debug\InformationManagement.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\InformationManagement\InformationManagement\bin\Debug\InformationManagement.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\InformationManagement\InformationManagement\obj\Debug\InformationManagement.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\InformationManagement\InformationManagement\obj\Debug\InformationManagement.pdb
