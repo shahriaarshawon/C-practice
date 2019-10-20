@@ -1,0 +1,5 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\ConsoleAppAccessModifierPro\ConsoleAppAccessModifierPro\bin\Debug\ConsoleAppAccessModifierPro.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\ConsoleAppAccessModifierPro\ConsoleAppAccessModifierPro\bin\Debug\ConsoleAppAccessModifierPro.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\ConsoleAppAccessModifierPro\ConsoleAppAccessModifierPro\obj\Debug\ConsoleAppAccessModifierPro.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\ConsoleAppAccessModifierPro\ConsoleAppAccessModifierPro\obj\Debug\ConsoleAppAccessModifierPro.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\ConsoleAppAccessModifierPro\ConsoleAppAccessModifierPro\obj\Debug\ConsoleAppAccessModifierPro.pdb
