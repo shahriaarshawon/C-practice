@@ -1,0 +1,2 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\ConsoleAppSingleInheritance\ConsoleAppSingleInheritance\bin\Debug\ConsoleAppSingleInheritance.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\ConsoleAppSingleInheritance\ConsoleAppSingleInheritance\obj\Debug\ConsoleAppSingleInheritance.csprojResolveAssemblyReference.cache
