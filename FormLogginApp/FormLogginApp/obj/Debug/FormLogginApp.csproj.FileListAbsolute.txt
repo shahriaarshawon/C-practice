@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\bin\Debug\FormLogginApp.exe.config
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\bin\Debug\FormLogginApp.exe
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\bin\Debug\FormLogginApp.pdb
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\obj\Debug\FormLogginApp.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\obj\Debug\FormLogginApp.Form1.resources
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\obj\Debug\FormLogginApp.Form2.resources
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\obj\Debug\FormLogginApp.Properties.Resources.resources
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\obj\Debug\FormLogginApp.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\obj\Debug\FormLogginApp.exe
+C:\Users\student\Desktop\c#\FormLogginApp\FormLogginApp\obj\Debug\FormLogginApp.pdb
